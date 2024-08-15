@@ -9,7 +9,7 @@ This project performs sentiment analysis on a dataset of tweets using a BERT pre
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Data Visualization](#Data Visualization)
+- [Data Visualization](#DataVisualization)
 - [Contributing](#contributing)
 
 ## Introduction
