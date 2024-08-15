@@ -9,6 +9,7 @@ This project performs sentiment analysis on a dataset of tweets using a BERT pre
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
+- [Data Visualization](#Data Visualization)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -63,6 +64,11 @@ Here’s an example of the dataset before and after applying sentiment analysis:
 |------|---------|
 | "I love this product!" | Very Happy |
 | "This is the worst experience ever." | Very Sad |
+
+## Data Visualization
+To better understand the sentiment distribution in the dataset, a bar plot is generated to visualize how many tweets fall under each emotion category: "Very Sad," "Sad," "Neutral," "Happy," and "Very Happy."
+![image](https://github.com/user-attachments/assets/4754c799-4699-4837-b047-cc2bc8f0d4c8)
+
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or suggestions!
